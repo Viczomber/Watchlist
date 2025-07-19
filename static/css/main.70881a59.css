@@ -1,0 +1,2 @@
+.card-container{display:flex;flex-wrap:wrap;gap:20px}.card{background-color:#fff;border-radius:10px;box-shadow:0 4px 8px #0003;overflow:hidden;text-align:center;transition:transform .3s ease,box-shadow .3s ease;width:200px}.card:hover{box-shadow:0 6px 12px #0000004d;transform:translateY(-5px)}.card img{height:300px;object-fit:cover;width:100%}.card-info{padding:10px}
+/*# sourceMappingURL=main.70881a59.css.map*/

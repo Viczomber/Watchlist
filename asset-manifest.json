@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watchlist-anime-kdrama/static/css/main.70881a59.css",
+    "main.js": "/watchlist-anime-kdrama/static/js/main.9f6aa92b.js",
+    "index.html": "/watchlist-anime-kdrama/index.html",
+    "main.70881a59.css.map": "/watchlist-anime-kdrama/static/css/main.70881a59.css.map",
+    "main.9f6aa92b.js.map": "/watchlist-anime-kdrama/static/js/main.9f6aa92b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70881a59.css",
+    "static/js/main.9f6aa92b.js"
+  ]
+}
